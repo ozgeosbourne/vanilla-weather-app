@@ -1,0 +1,22 @@
+
+.weatherapp-border {
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 20px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: rgb(220, 235, 250);
+}
+li {
+    list-style: none;
+}
+.card-text {
+    text-align: center;
+}
+footer {
+    text-align: center;
+    font-size: 14px;
+}
+main {
+    font-size: 30px;
+}
