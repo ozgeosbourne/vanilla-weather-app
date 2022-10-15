@@ -21,3 +21,17 @@ footer {
 h4:first-letter {
     text-transform: capitalize;
 }
+#celsius-link, 
+#fahrenheit-link {
+    color: black;
+    text-decoration: none;
+
+}
+#temperature {
+    font-size: 46px;
+    
+}
+.units {
+    position: relative;
+    top: -20px;
+}
