@@ -35,3 +35,7 @@ h4:first-letter {
     position: relative;
     top: -20px;
 }
+.card-body img {
+    height: 64px;
+    width: 64px;
+}
