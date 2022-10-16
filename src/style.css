@@ -1,11 +1,12 @@
-
 .weatherapp-border {
     max-width: 700px;
     margin: 30px auto;
     padding: 20px;
-    border: 1px solid gray;
-    border-radius: 10px;
+    border: 1px solid;
+    border-radius: 30px;
+    border-color: rgb(220, 235, 250);
     background-color: rgb(220, 235, 250);
+    box-shadow: 2px 2px 2px 1px rgba(215, 220, 224, 0.4);
 }
 li {
     list-style: none;
@@ -20,7 +21,13 @@ footer {
 }
 h4:first-letter {
     text-transform: capitalize;
+    
 }
+h4 {
+    font-weight: normal;
+    font-size: 22px;
+}
+
 #celsius-link, 
 #fahrenheit-link {
     color: black;
