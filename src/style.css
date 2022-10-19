@@ -12,9 +12,7 @@ li {
     list-style: none;
     font-size: 14px;
 }
-.card-text {
-    text-align: center;
-}
+
 footer {
     text-align: center;
     font-size: 14px;
@@ -45,4 +43,10 @@ h4 {
 .card-body img {
     height: 64px;
     width: 64px;
+}
+.card-body {
+    text-align: center;
+}
+.forecast-min {
+    opacity: 0.5;
 }
