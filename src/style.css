@@ -10,7 +10,7 @@
 }
 li {
     list-style: none;
-    font-size: 14px;
+    font-size: 15px;
 }
 
 footer {
@@ -23,26 +23,22 @@ h4:first-letter {
 }
 h4 {
     font-weight: normal;
-    font-size: 22px;
-}
-
-#celsius-link, 
-#fahrenheit-link {
-    color: black;
-    text-decoration: none;
-
+    font-size: 20px;
 }
 #temperature {
-    font-size: 46px;
-    
+    font-size: 48px;
 }
 .units {
     position: relative;
-    top: -20px;
+    top: -24px;
+    font-weight: bold;
+    font-size: 19px;
 }
 .card-body img {
     height: 64px;
     width: 64px;
+    position: relative;
+    top: -10px;
 }
 .card-body {
     text-align: center;
