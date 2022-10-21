@@ -25,6 +25,7 @@ h4 {
     font-weight: normal;
     font-size: 20px;
 }
+
 #temperature {
     font-size: 48px;
 }
@@ -45,4 +46,7 @@ h4 {
 }
 .forecast-min {
     opacity: 0.5;
+}
+#icon {
+    width: 130px;
 }
